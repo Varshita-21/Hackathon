@@ -18,6 +18,7 @@ LabVIEW implements different cases: 1. When solar energy is equal to the energy 
 -This data is used for data visualization done on jupyter notebook.
 -An application is built using **android studio** to display the number of credits he gets on that day, after validating him for Building number, Username and Password.
 The UI looks like this:
+
 ![WhatsApp Image 2021-03-21 at 8 30 19 AM](https://user-images.githubusercontent.com/56498610/111892398-2e48aa00-8a21-11eb-8b8b-85a0fc02e34e.jpeg)
 ![WhatsApp Image 2021-03-21 at 8 39 29 AM](https://user-images.githubusercontent.com/56498610/111892407-4ae4e200-8a21-11eb-813d-0f54b7651ac5.jpeg)
 
